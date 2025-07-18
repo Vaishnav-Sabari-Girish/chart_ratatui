@@ -1,0 +1,9 @@
+/home/vaishnav/Desktop/My_Projects/test_plotting/target/release/deps/derive_more_impl-dc57991e477e347e.d: /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/lib.rs /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/utils.rs /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/is_variant.rs /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/../README.md /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/../doc/is_variant.md
+
+/home/vaishnav/Desktop/My_Projects/test_plotting/target/release/deps/libderive_more_impl-dc57991e477e347e.so: /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/lib.rs /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/utils.rs /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/is_variant.rs /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/../README.md /home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/../doc/is_variant.md
+
+/home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/lib.rs:
+/home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/utils.rs:
+/home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/is_variant.rs:
+/home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/../README.md:
+/home/vaishnav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-impl-2.0.1/src/../doc/is_variant.md:
